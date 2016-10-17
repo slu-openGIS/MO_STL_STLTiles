@@ -19,13 +19,8 @@
   * **Author/Owner -** Christopher Prener, Ph.D. ([prenercg@slu.edu](mailto:prenercg@slu.edu))
   * **Link -** [https://github.com/slu-openGIS/MO_STL_STLTiles](https://github.com/slu-openGIS/MO_STL_STLTiles)
 
-<<<<<<< HEAD
-### geoJSON Details
-  * **Created Using -** `[ogr2ogr](http://www.gdal.org/ogr2ogr.html)` via `[GDAL](http://www.gdal.org/index.html)`
-=======
 ### GeoJSON Details
   * **Created Using -** [ogr2ogr](http://www.gdal.org/ogr2ogr.html)
->>>>>>> origin/master
   * **Syntax Formatted -** yes
   * **Syntax Formatting Tool -** [geoJSON Hint](https://www.mapbox.com/geojsonhint/)
   * **Validated -** yes
