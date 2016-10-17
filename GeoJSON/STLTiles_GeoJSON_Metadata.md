@@ -1,5 +1,5 @@
 # St. Louis Orthoimagery Tile Guide
-### GeoJSON Format
+### geoJSON Format
 ### Metadata
   * **Title -** `STLTiles.geojson`
   * **Date of Original Publication -** 17 Oct 2016
@@ -19,9 +19,9 @@
   * **Author/Owner -** Christopher Prener, Ph.D. ([prenercg@slu.edu](mailto:prenercg@slu.edu))
   * **Link -** [https://github.com/slu-openGIS/MO_STL_STLTiles](https://github.com/slu-openGIS/MO_STL_STLTiles)
 
-### GeoJSON Details
+### geoJSON Details
   * **Created Using -** `[ogr2ogr](http://www.gdal.org/ogr2ogr.html)` via `[GDAL](http://www.gdal.org/index.html)`
   * **Syntax Formatted -** yes
-  * **Syntax Formatting Tool -** [GeoJSON Hint](https://www.mapbox.com/geojsonhint/)
+  * **Syntax Formatting Tool -** [geoJSON Hint](https://www.mapbox.com/geojsonhint/)
   * **Validated -** yes
-  * **Validated Using -** [GeoJSON Lint](http://geojsonlint.com)
+  * **Validated Using -** [geoJSON Lint](http://geojsonlint.com)
