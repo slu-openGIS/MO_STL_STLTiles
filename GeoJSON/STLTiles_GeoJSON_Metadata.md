@@ -12,15 +12,20 @@
   * **Constraints Use -** Available under a MIT License
   * **Constraints Text -** See the `LICENSE.md` file
   * **Spatial Representation Type -** Vector - Polygons
-  * **Coordinate System -** `[WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System)`
+  * **Coordinate System -** `WGS84`
   * **Language -** English
   * **Topic Category -** Orthoimagery
   * **Point of Contact -** Christopher Prener, Ph.D. ([prenercg@slu.edu](mailto:prenercg@slu.edu))
   * **Author/Owner -** Christopher Prener, Ph.D. ([prenercg@slu.edu](mailto:prenercg@slu.edu))
   * **Link -** [https://github.com/slu-openGIS/MO_STL_STLTiles](https://github.com/slu-openGIS/MO_STL_STLTiles)
 
+<<<<<<< HEAD
 ### geoJSON Details
   * **Created Using -** `[ogr2ogr](http://www.gdal.org/ogr2ogr.html)` via `[GDAL](http://www.gdal.org/index.html)`
+=======
+### GeoJSON Details
+  * **Created Using -** [ogr2ogr](http://www.gdal.org/ogr2ogr.html)
+>>>>>>> origin/master
   * **Syntax Formatted -** yes
   * **Syntax Formatting Tool -** [geoJSON Hint](https://www.mapbox.com/geojsonhint/)
   * **Validated -** yes
